@@ -1,0 +1,38 @@
+{
+  "llama": {
+    "human_vs_llm": {
+      "pearson": 0.823,
+      "spearman": 0.7397
+    },
+    "human_vs_rouge1": {
+      "pearson": 0.4891,
+      "spearman": 0.6894
+    },
+    "human_vs_rouge2": {
+      "pearson": 0.4544,
+      "spearman": 0.6618
+    },
+    "human_vs_rougeL": {
+      "pearson": 0.4891,
+      "spearman": 0.6894
+    }
+  },
+  "phi3": {
+    "human_vs_llm": {
+      "pearson": 0.8433,
+      "spearman": 0.8877
+    },
+    "human_vs_rouge1": {
+      "pearson": 0.5461,
+      "spearman": 0.7203
+    },
+    "human_vs_rouge2": {
+      "pearson": 0.592,
+      "spearman": 0.6636
+    },
+    "human_vs_rougeL": {
+      "pearson": 0.5528,
+      "spearman": 0.7259
+    }
+  }
+}
